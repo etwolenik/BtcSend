@@ -1,3 +1,4 @@
+#run "pip install requests" in terminal before using. Replace the email adress with your own to send.
 import requests
 import smtplib
 from email.mime.text import MIMEText
